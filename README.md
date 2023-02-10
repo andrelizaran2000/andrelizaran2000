@@ -2,7 +2,7 @@
 
 * Frontend dev 
 * Computer sytems enginner
-* 21
+* 22
 * Typescript is my favorite programming language
 * Spanish / English
 * Videogames, music and programming
